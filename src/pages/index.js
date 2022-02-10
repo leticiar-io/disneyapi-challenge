@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import SignInPage from '../layout/SignIn'
 
-const Home = () => {
+const Index = () => {
   return (
     <div>
       <Head>
@@ -13,12 +13,10 @@ const Home = () => {
       </Head>
 
       <body>
-        <>
         <SignInPage/>
-        </>
       </body>
     </div>
   )
 }
 
-export default Home
+export default Index

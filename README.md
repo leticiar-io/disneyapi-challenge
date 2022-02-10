@@ -1,7 +1,7 @@
 # TruckPag Challenge 👩‍💻
 
 ## Preview da Aplicação (Desktop 💻)
-![Imagem](https://i.imgur.com/lLQRi2D.gif)
+![Imagem](https://github.com/leticia-rodriguesf/truckpag-disney-challenge/blob/master/public/DisneyLand.gif)
 
 ## Passos para rodar na sua máquina 🚀: 
 1. Opção 1: Yarn 
